@@ -1,3 +1,9 @@
 # Apricot
 
-//ToDo
+# Description
+
+# Designer
+- LazyDesigners
+  
+# Group Buy Information
+
