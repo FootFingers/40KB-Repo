@@ -1,6 +1,6 @@
 # Detour
 
-//ToDo Images
+![](./Images/detour_cover.PNG)
 
 ## Description
 Detour is an 11u keyboard with an angled top macro row. The board design was inspired from The Ave keyboard. The layout is based on the QAZ layout by tominabox1 and whydobearsxplod, with inspirations from the vault35 layout from MechVault.
@@ -10,7 +10,7 @@ The board can be built with a leaf-spring top mounted plate featuring three diff
 A build guide for the Detour can be [found here](https://nachie.github.io/detour-build-guide/).
 
 ## Layout
-// Todo
+![](./Images/detour_layout.webp)
 
 ## Designer
 - Nachie
