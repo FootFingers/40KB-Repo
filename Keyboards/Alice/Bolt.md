@@ -1,10 +1,9 @@
-# Apricot
-
-## Description
+# Bolt
 
 ## Layout
 
+## Description
+
 ## Designer
-- LazyDesigners
 
 ## Group Buy Information
