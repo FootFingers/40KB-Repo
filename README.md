@@ -5,7 +5,7 @@ This is a repo of information for 40% keyboards, in a centralized location. Keyb
 ## Contents
 
 ### Alice:
-- [Bolt](./Alice/Bolt.md)
-- [Chalice](./Alice/Chalice.md)
-- [Shizuku](./Alice/Shizuku.md)
-- [Yak40](./Alice/Yak40.md)
+- [Bolt](./Keyboards/Alice/Bolt.md)
+- [Chalice](./Keyboards/Alice/Chalice.md)
+- [Shizuku](./Keyboards/Alice/Shizuku.md)
+- [Yak40](./Keyboards/Alice/Yak40.md)
