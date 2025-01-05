@@ -12,12 +12,12 @@ Mugitya
 ## Group Buy Information
 
 Two Group Buys have been held for Chalice.
-R1 Date:
-R1 Runner:
+- R1 Date:
+- R1 Runner:
 
 R2 was limited to 200 units.
-R2 Date: 29th September 2022
-R2 Runner: Owlabs
+- R2 Date: 29th September 2022
+- R2 Runner: Owlabs
 
 ## Media
 
