@@ -1,7 +1,9 @@
 # Infernum
 
-//Todo Images, additional headings
+![](./Images/infernum_cover.png)
 
+## Layout
+//Todo Images, additional headings
 ## Description
 Infernum is a 35% Katana stagger keyboard.
 
