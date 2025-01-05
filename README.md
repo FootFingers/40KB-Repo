@@ -1,6 +1,11 @@
+
+[![Pull Requests - Welcome](https://img.shields.io/badge/Pull_Requests-Welcome-yellowgreen)](https://)
+![Keyboards Documented - 16](https://img.shields.io/badge/Keyboards_Documented-16-2ea44f)
+
 # keyboard_wiki
 
 This is a repo of information for 40% keyboards, in a centralized location. Keyboards are categorized by their layout.
+
 
 ## Contents
 
@@ -28,3 +33,7 @@ This is a repo of information for 40% keyboards, in a centralized location. Keyb
 #### Katana
 - [Infernum](./Keyboards/Obscure/Infernum.md)
 - [Tsuru](./Keyboards/Obscure/Tsuru.md)
+
+## Contributing
+
+Contributions are welcome! Please open a pull request and submit for review.
