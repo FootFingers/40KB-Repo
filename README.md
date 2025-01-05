@@ -36,4 +36,4 @@ This is a repo of information for 40% keyboards, in a centralized location. Keyb
 
 ## Contributing
 
-Contributions are welcome! Please open a pull request and submit for review.
+Contributions are welcome! Please open a pull request and submit for review. All contributors will be credited below.
