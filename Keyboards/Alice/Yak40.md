@@ -15,7 +15,7 @@ The design is open-sourced, and available [here](https://github.com/kuriki-sasa/
 
 
 ## Designer
-- Kurikisasa
+- [Kurikisasa](https://kuriya-keebs.com/)
 
 ## Group Buy Information
 - Pre-Sale: A small number of units were sold originally at the first Keyboard Market in Tokyo, in March of 2024. Following that, an Interest Check was held in the 40% Discord Server, with interest warranting in-stock sales.

@@ -1,6 +1,6 @@
 
 [![Pull Requests - Welcome](https://img.shields.io/badge/Pull_Requests-Welcome-yellowgreen)](https://)
-![Keyboards Documented - 16](https://img.shields.io/badge/Keyboards_Documented-16-2ea44f)
+![Keyboards Documented - 21](https://img.shields.io/badge/Keyboards_Documented-16-2ea44f)
 
 # keyboard_wiki
 
@@ -25,9 +25,16 @@ This is a repo of information for 40% keyboards, in a centralized location. Keyb
 
 ### Standard Stagger
 - [Curio](./Keyboards/Standard/Curio.md)
+- [Dimple](./Keyboards/Standard/Dimple.md)
+- [Duo](./Keyboards/Standard/Duo.md)
 - [Haitun](./Keyboards/Standard/Haitun.md)
+- [M0ii040](./Keyboards/Standard/M0ii040.md)
 - [Machida](./Keyboards/Standard/Machida.md)
+- [S46](./Keyboards/Standard/S46.md)
 - [TPS40](./Keyboards/Standard/TPS40.md)
+
+### Split
+- [Fish](./Keyboards/Split/Fish.md)
 
 ### Obscure
 #### Katana

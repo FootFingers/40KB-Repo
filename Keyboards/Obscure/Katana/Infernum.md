@@ -5,14 +5,15 @@
 ## Description
 Infernum is a 35% Katana stagger keyboard.
 
-## Layout
-//Todo Images, additional headings
-
-
 Infernum has been open-sourced, files are available [here](https://github.com/HaiZeus0411/Infernum-Files)
 
+
+## Layout
+![](./Images/infernum_layout.png)
+
+
 ## Designer
-Haizeus
+- [Haizeus](https://haizeuskb.bigcartel.com/)
 
 ## Group Buy Information
 - Date: ? - December 30th, 2023

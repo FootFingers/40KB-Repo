@@ -9,7 +9,7 @@ Curio is a 13u keyboard with an exploded spacebar dropped down by 0.25u. It util
 ![](./Images/curio_layout.png)
 
 ## Designer
-- MechVault
+- [MechVault](https://mechvault.net/)
 
 ## Group Buy Information
 - Dates: February 3rd 2024 -

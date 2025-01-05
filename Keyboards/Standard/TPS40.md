@@ -5,6 +5,6 @@
 ## Layout
 
 ## Designer
-- Deadline Studio
+- [Deadline Studio](https://deadline.space/)
 
 ## Group Buy Information
