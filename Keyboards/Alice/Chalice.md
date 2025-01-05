@@ -1,5 +1,12 @@
 # Chalice
-//Todo Images
+![](./Images/chalice_cover.png)
+
+# Layout
+Hotswap Layout:
+![](./Images/chalice_layout_hotswap.png)
+
+Solder Layout:
+![](./Images/chalice_layout_solder.png)
 
 # Description
 Chalice is a gasket-mounted 40% Alice. The top case is made of anodized aluminum. The bottom case, which is also the weight of Chalice, is a piece of mirror PVD-coated Stainless Steel with a decorative Titanium beam inside.
