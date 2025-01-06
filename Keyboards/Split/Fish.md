@@ -4,9 +4,11 @@
 ## Description
 The Fish keyboard is a 32-key split ergonomic wireless keyboard based on ZMK. The bottom plate is machined from brass, with the top housing and keycaps being 3D printed.
 
-The official website for the keyboard can be found [here](https://o24.works/fish/)
+The official website for the keyboard can be found [here](https://o24.works/fish/).
 
 A typing test was found on YouTube [here](https://www.youtube.com/watch?v=iKSnUOVDimM&t=841s) showcasing usage of the design.
+
+The files for Fish are open-source and are available on Github [here](https://github.com/TakumaOnishi/Fish_Keyboard/tree/main).
 
 ## Layout
 ![](./Images/fish_layout.webp)
