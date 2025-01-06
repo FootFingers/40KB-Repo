@@ -12,5 +12,5 @@ Bolt originally came with a stacked acrylic case, later an aluminum case was cre
  - [LazyDesigners](https://lazydesigners.cn/)
 
 ## Group Buy Information
-Date:
-Pricing:
+- Date:
+- Price:
