@@ -2,7 +2,7 @@
 [![Pull Requests - Welcome](https://img.shields.io/badge/Pull_Requests-Welcome-yellowgreen)](https://)
 ![Keyboards Documented - 24](https://img.shields.io/badge/Keyboards_Documented-16-2ea44f)
 
-# keyboard_wiki
+# 40KB Repo
 
 This is a repo of information for 40% keyboards, in a centralized location. Keyboards are categorized by their layout.
 
