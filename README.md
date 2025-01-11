@@ -18,8 +18,10 @@ This is a repo of information for 40% keyboards, in a centralized location. Keyb
 - [Yak40](./Keyboards/Alice/Yak40.md)
 
 ### QAZ
+- [#34](./Keyboads/QAZ/#34.md)
 - [Apricot](./Keyboards/QAZ/Apricot.md)
 - [Detour](./Keyboards/QAZ/Detour.md)
+- [GB34](./Keyboards/QAZ/GB34.md)
 - [QAZ](./Keyboards/QAZ/QAZ.md)
 - [Qazikat](./Keyboards/QAZ/Qazikat.md)
 - [Qazimodo](./Keyboards/QAZ/Qazimodo.md)
@@ -41,8 +43,12 @@ This is a repo of information for 40% keyboards, in a centralized location. Keyb
 
 ### Obscure
 #### Katana
-- [Infernum](./Keyboards/Obscure/Infernum.md)
-- [Tsuru](./Keyboards/Obscure/Tsuru.md)
+- [Infernum](./Keyboards/Obscure/Katana/Infernum.md)
+- [Littol](./Keyboards/Obscure/Katana/Littol.md)
+- [Tsuru](./Keyboards/Obscure/Katana/Tsuru.md)
+#### Unibody Split
+- [Grumpy](./Keyboards/Obscure/Unibody%20Split/Grumpy.md)
+- [Le Chiffre](./Keyboards/Obscure/Unibody%20Split/LeChiffre.md)
 
 ## Contributing
 
