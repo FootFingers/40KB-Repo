@@ -1,6 +1,6 @@
 
 [![Pull Requests - Welcome](https://img.shields.io/badge/Pull_Requests-Welcome-yellowgreen)](https://)
-![Keyboards Documented - 24](https://img.shields.io/badge/Keyboards_Documented-16-2ea44f)
+![Keyboards Documented - 29](https://img.shields.io/badge/Keyboards_Documented-29-2ea44f)
 
 # 40KB Repo
 
