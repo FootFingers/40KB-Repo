@@ -12,10 +12,10 @@ The design is open-sourced, and available [here](https://github.com/kuriki-sasa/
 ## Layout
 ![](./Images/yak40_layout.png)
 
-
-
 ## Designer
 - [Kurikisasa](https://kuriya-keebs.com/)
+
+*Note from the designer?*
 
 ## Group Buy Information
 - Pre-Sale: A small number of units were sold originally at the first Keyboard Market in Tokyo, in March of 2024. Following that, an Interest Check was held in the 40% Discord Server, with interest warranting in-stock sales.

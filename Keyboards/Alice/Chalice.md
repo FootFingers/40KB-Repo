@@ -27,6 +27,10 @@ Two Group Buys have been held for Chalice.
 R2 was limited to 200 units.
 - R2 Date: 29th September 2022
 - R2 Runner: Owlabs
+- Price:
+  - $305 case + PCB only
+  - $15 plates
+  - $40 solder PCB + Foam kit, $45 hotswap PCB + Foam kit
 
 ## Media
 

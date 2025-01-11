@@ -10,8 +10,10 @@ This is a repo of information for 40% keyboards, in a centralized location. Keyb
 ## Contents
 
 ### Alice:
+- [Alix40](./Keyboards/Alice/Alix40.md)
 - [Bolt](./Keyboards/Alice/Bolt.md)
 - [Chalice](./Keyboards/Alice/Chalice.md)
+- [Cisne](./Keyboards/Alice/Cisne.md)
 - [Shizuku](./Keyboards/Alice/Shizuku.md)
 - [Yak40](./Keyboards/Alice/Yak40.md)
 
@@ -29,6 +31,7 @@ This is a repo of information for 40% keyboards, in a centralized location. Keyb
 - [Duo](./Keyboards/Standard/Duo.md)
 - [Haitun](./Keyboards/Standard/Haitun.md)
 - [M0ii040](./Keyboards/Standard/M0ii040.md)
+- [Menhir](./Keyboards/Standard/Menhir.md)
 - [Machida](./Keyboards/Standard/Machida.md)
 - [S46](./Keyboards/Standard/S46.md)
 - [TPS40](./Keyboards/Standard/TPS40.md)
