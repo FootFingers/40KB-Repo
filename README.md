@@ -1,6 +1,6 @@
 
 [![Pull Requests - Welcome](https://img.shields.io/badge/Pull_Requests-Welcome-yellowgreen)](https://)
-![Keyboards Documented - 29](https://img.shields.io/badge/Keyboards_Documented-29-2ea44f)
+![Keyboards Documented - 32](https://img.shields.io/badge/Keyboards_Documented-32-2ea44f)
 
 # 40KB Repo
 
@@ -40,6 +40,9 @@ This is a repo of information for 40% keyboards, in a centralized location. Keyb
 
 ### Split
 - [Fish](./Keyboards/Split/Fish.md)
+- [Klor](./Keyboards/Split/Klor.md)
+- [Klotz](./Keyboards/Split/Klotz.md)
+- [Totem](./Keyboards/Split/Totem.md)
 
 ### Obscure
 #### Katana
