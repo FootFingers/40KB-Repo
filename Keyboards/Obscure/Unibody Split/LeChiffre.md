@@ -18,4 +18,4 @@ Le Chiffre is open-source and [available here](https://github.com/tominabox1/Le-
 Available here:
 - [US](https://www.jlw-kb.com/products/le-chiffre-plus-kit)
 - [EU](https://keeb.supply/products/lechiffre-kit)
-- [Open Source](https://github.com/tominabox1/Le-Chiffre-Keyboard)
+- [Open-Source](https://github.com/tominabox1/Le-Chiffre-Keyboard)

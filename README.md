@@ -1,6 +1,6 @@
 
-[![Pull Requests - Welcome](https://img.shields.io/badge/Pull_Requests-Welcome-yellowgreen)](https://)
-![Keyboards Documented - 32](https://img.shields.io/badge/Keyboards_Documented-32-2ea44f)
+[![Pull Requests - Welcome](https://img.shields.io/badge/Pull_Requests-Welcome-yellow)](https://)
+![Keyboards Documented - 34](https://img.shields.io/badge/Keyboards_Documented-34-2ea44f)
 
 # 40KB Repo
 
@@ -49,7 +49,13 @@ This is a repo of information for 40% keyboards, in a centralized location. Keyb
 - [Infernum](./Keyboards/Obscure/Katana/Infernum.md)
 - [Littol](./Keyboards/Obscure/Katana/Littol.md)
 - [Tsuru](./Keyboards/Obscure/Katana/Tsuru.md)
+
+#### QAZ Alice
+- [Evelyn](./Keyboards/Obscure/QAZ%20Alice/Evelyn.md)
+- [Madeline](./Keyboards/Obscure/QAZ%20Alice/Madeline.md)
+
 #### Unibody Split
+- [Le Chiffre](./Keyboards/Obscure/Unibody%20Split/LeChiffre.md)
 - [Grumpy](./Keyboards/Obscure/Unibody%20Split/Grumpy.md)
 - [Le Chiffre](./Keyboards/Obscure/Unibody%20Split/LeChiffre.md)
 
