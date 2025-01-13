@@ -15,7 +15,7 @@ This is a repo of information for 40% keyboards, in a centralized location. Keyb
 - [Chalice](./Keyboards/Alice/Chalice.md)
 - [Cisne](./Keyboards/Alice/Cisne.md)
 - [Shizuku](./Keyboards/Alice/Shizuku.md)
-- [Wellenphase](./Keyboards/Wellenphase.md)
+- [Wellenphase](./Keyboards/Alice/Wellenphase.md)
 - [Yak40](./Keyboards/Alice/Yak40.md)
 
 ### QAZ
