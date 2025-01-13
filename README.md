@@ -38,6 +38,7 @@ This is a repo of information for 40% keyboards, in a centralized location. Keyb
 - [Machida](./Keyboards/Standard/Machida.md)
 - [S46](./Keyboards/Standard/S46.md)
 - [TPS40](./Keyboards/Standard/TPS40.md)
+- [Wolfjaw](./Keyboards/Standard/Wolfjaw.md)
 
 ### Split
 - [Fish](./Keyboards/Split/Fish.md)
