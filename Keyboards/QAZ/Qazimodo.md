@@ -18,6 +18,8 @@ Instagram page with additional images can be [found here](https://www.instagram.
 ## Designer
 - Scoot Broer
 
+- Note from the designer: "*The Qazimodo layout was originally a joke for a friend who often comments that my Vault doesn’t have enough keys. Turns out people were into the silly layout and next thing I knew I was designing a case and ordering prototypes.*"
+
 ## Group Buy Information
 - Dates: November 11th - November 25th 2024.
 - Price: $200 - $250
