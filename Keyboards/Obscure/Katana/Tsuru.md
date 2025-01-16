@@ -1,6 +1,6 @@
 # Tsuru
 ![](./Images/tsuru_cover.jpg)
-*Image provided by Seeb, case design by [Krisenplan](https://www.instagram.com/krisenplan/)*
+*Image provided by [Seeb](https://github.com/SeebM), case design by [Krisenplan](https://www.instagram.com/krisenplan/)*
 
 ## Description
 A 3 row, katana-staggered keyboard with ISO Enter compatibility.
