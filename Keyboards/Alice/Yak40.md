@@ -14,8 +14,11 @@ The design is open-sourced, and available [here](https://github.com/kuriki-sasa/
 
 ## Designer
 - [Kurikisasa](https://kuriya-keebs.com/)
+- Message from the designer:
+> "*When I first discovered this hobby, a variety of creative keyboards caught my eye. Menhir, cisne, Chalice 40, Vision, and many many more. But none of them were available anymore, so I designed the Yak40.*
+>
+> *All data for production is available to the public. Modifications are also welcome. Please do not hesitate to contact me if you have any questions.*
 
-*Note from the designer?*
 
 ## Group Buy Information
 - Pre-Sale: A small number of units were sold originally at the first Keyboard Market in Tokyo, in March of 2024. Following that, an Interest Check was held in the 40% Discord Server, with interest warranting in-stock sales.
