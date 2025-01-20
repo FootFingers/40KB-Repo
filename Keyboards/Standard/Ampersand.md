@@ -5,7 +5,7 @@
 ## Description
 Ampersand is a gummyworm mounted 13.5u keyboard with only minimal 40s support required.
 
-In November, 2024; Keeb.Supply released a concrete version of the case available [here](https://keeb.supply/products/amperconcrete).
+In November, 2024; Keeb.Supply released a concrete version of the case available [here](https://keeb.supply/products/amperconcrete), canonically named "Amperconcrete".
 
 ## Layout
 ![](./Images/ampersand_layout.png)
