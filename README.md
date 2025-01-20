@@ -29,6 +29,7 @@ This is a repo of information for 40% keyboards, in a centralized location. Keyb
 - [Vault35](./Keyboards/QAZ/Vault35.md)
 
 ### Standard Stagger
+- [Ampersand](./Keyboards/Standard/Ampersand.md)
 - [Curio](./Keyboards/Standard/Curio.md)
 - [Dimple](./Keyboards/Standard/Dimple.md)
 - [Duo](./Keyboards/Standard/Duo.md)
